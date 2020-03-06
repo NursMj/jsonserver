@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NursMj/jsonserver/issues"
   },
-  "homepage": "https://github.com/NursMj/jsonserver#readme"
+  "homepage": "https://github.com/NursMj/jsonserver#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
 }
